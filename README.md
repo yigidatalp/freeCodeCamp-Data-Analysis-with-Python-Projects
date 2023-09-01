@@ -1,6 +1,7 @@
+#freeCodeCamp-Data-Analysis-with-Python-Projects
 In this repository, I completed all of the Data Analysis with Python Projects to earn a freeCodeCamp certification.
 
-Skills
+**Skills**
 
 Python
 
